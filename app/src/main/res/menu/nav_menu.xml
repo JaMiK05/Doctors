@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/screen_home"
+        android:icon="@drawable/home"
+        android:title="Home"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/screen_appointment"
+        android:icon="@drawable/calendar"
+        android:title="Appointment"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/screen_history"
+        android:icon="@drawable/history"
+        android:title="History"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/screen_articles"
+        android:icon="@drawable/description"
+        android:title="Articles"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/screen_profile"
+        android:icon="@drawable/profil"
+        android:title="Profile"
+        tools:ignore="HardcodedText" />
+</menu>

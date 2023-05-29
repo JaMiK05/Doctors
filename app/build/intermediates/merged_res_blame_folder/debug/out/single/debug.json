@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_google.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\google.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_general.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\general.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_avatar.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\avatar.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_btn_page_corner_solid.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\btn_page_corner_solid.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_bg_for_button.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\bg_for_button.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_img_1.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\img_1.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_et_login_corner_solid.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\et_login_corner_solid.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_facebook.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\facebook.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\navigation_nav_host.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\navigation\\nav_host.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_bg_button.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\bg_button.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_ic_connected.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\ic_connected.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_signin.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\signin.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\layout_screen_favourite.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\layout\\screen_favourite.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_ic_key.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\ic_key.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_sp3.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\sp3.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\layout_screen_splash.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\layout\\screen_splash.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\layout_screen_profile.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\layout\\screen_profile.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\layout_fragment_verify.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\layout\\fragment_verify.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_radiolog.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\radiolog.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_health.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\health.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_ic_gallery.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\ic_gallery.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_sp4.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\sp4.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_notifications.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\notifications.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_sp1.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\sp1.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_ic_succes.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\ic_succes.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_neurolog.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\neurolog.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_baseline_phone_24.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\baseline_phone_24.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_bg_search.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\bg_search.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\layout_screen_pager.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\layout\\screen_pager.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\layout_screen_home.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\layout\\screen_home.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_boardingpic2.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\boardingpic2.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_calendar.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\calendar.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_bottom_sheet.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\layout_activity_main.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_background_sign_button.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\background_sign_button.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\anim_animatsiya.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\anim\\animatsiya.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_bg_for_circular.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\bg_for_circular.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_search.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_apple.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\apple.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_ic_new.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\ic_new.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_baseline_lock_24.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\layout_fragment_registr.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\layout\\fragment_registr.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\layout_fragment_main.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_ophthalog.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\ophthalog.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_favorite_filled.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\favorite_filled.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\menu_nav_menu.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_sp6.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\sp6.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_bg_for_edit.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\bg_for_edit.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_more.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\more.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_doc1.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\doc1.png"
+    },
+    {
+        "merged": "uz.gita.imtihon3oy.app-merged_res-61:/layout_fragment_signup.xml.flat",
+        "source": "uz.gita.imtihon3oy.app-main-63:/layout/fragment_signup.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_param.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\param.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\layout_item_notification.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\layout\\item_notification.xml"
+    },
+    {
+        "merged": "uz.gita.imtihon3oy.app-merged_res-61:/layout_fragment_verify.xml.flat",
+        "source": "uz.gita.imtihon3oy.app-main-63:/layout/fragment_verify.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_sp7.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\sp7.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_boardingpic3.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\boardingpic3.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_history.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\history.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\layout_fragment_signup.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\layout\\fragment_signup.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\layout_screen_first_page.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\layout\\screen_first_page.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable-v24_loading.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable-v24\\loading.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_boardingpic1.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\boardingpic1.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_img_splash.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\img_splash.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_home.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_ic_cancel.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\ic_cancel.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\navigation_navigation.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\navigation\\navigation.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_background_sign_txt.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\background_sign_txt.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_empty_list.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\empty_list.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_sp8.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\sp8.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_pediatric.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\pediatric.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_ic_available.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\ic_available.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_description.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\description.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_favorite.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\favorite.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_nutrition.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\nutrition.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_sp5.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\sp5.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\layout_item_doctor.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\layout\\item_doctor.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\layout_item_page.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\layout\\item_page.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_moreic.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\moreic.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_back.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_img.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_profil.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\profil.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_sp2.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\sp2.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_dentist.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\dentist.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_ic_changed.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\ic_changed.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-merged_res-61:\\drawable_ic_star.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.imtihon3oy.app-main-63:\\drawable\\ic_star.png"
+    }
+]

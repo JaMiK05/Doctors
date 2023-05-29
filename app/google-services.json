@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680582762275",
+    "project_id": "imtihon-3-oy",
+    "storage_bucket": "imtihon-3-oy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680582762275:android:d3706f92f93f3b02f90696",
+        "android_client_info": {
+          "package_name": "uz.gita.imtihon3oy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYBjQ6Kv0Mayaa5dfLPfSwG4Js1UM1UZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

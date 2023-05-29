@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_host"
+    app:startDestination="@id/splashScreen">
+
+    <fragment
+        android:id="@+id/splashScreen"
+        android:name="uz.gita.imtihon3oy.presentation.screen.fragment.splash.SplashScreen"
+        android:label="SplashScreen"
+        tools:layout="@layout/screen_splash">
+        <action
+            android:id="@+id/action_splashScreen_to_firstPage"
+            app:destination="@id/firstPage" />
+        <action
+            android:id="@+id/action_splashScreen_to_profileScreen"
+            app:destination="@id/profileScreen" />
+        <action
+            android:id="@+id/action_splashScreen_to_registrFragment"
+            app:destination="@id/registrFragment" />
+        <action
+            android:id="@+id/action_splashScreen_to_mainFragment"
+            app:destination="@id/mainFragment" />
+        <action
+            android:id="@+id/action_splashScreen_to_viewPagerScreen"
+            app:destination="@id/viewPagerScreen" />
+    </fragment>
+    <fragment
+        android:id="@+id/firstPage"
+        android:name="uz.gita.imtihon3oy.presentation.screen.fragment.viewpager.FirstPage"
+        android:label="FirstPage"
+        tools:layout="@layout/screen_first_page">
+        <action
+            android:id="@+id/action_firstPage_to_viewPagerScreen"
+            app:destination="@id/viewPagerScreen" />
+    </fragment>
+    <fragment
+        android:id="@+id/viewPagerScreen"
+        android:name="uz.gita.imtihon3oy.presentation.screen.fragment.viewpager.ViewPagerScreen"
+        android:label="ViewPagerScreen"
+        tools:layout="@layout/screen_pager">
+        <action
+            android:id="@+id/action_viewPagerScreen_to_registrFragment"
+            app:destination="@id/registrFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/profileScreen"
+        android:name="uz.gita.imtihon3oy.presentation.screen.fragment.fillprofile.ProfileScreen"
+        android:label="ProfileScreen"
+        tools:layout="@layout/screen_profile">
+        <argument
+            android:name="phone"
+            app:argType="string" />
+        <argument
+            android:name="password"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_profileScreen_to_mainFragment"
+            app:destination="@id/mainFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/registrFragment"
+        android:name="uz.gita.imtihon3oy.presentation.screen.fragment.registration.registr.RegistrFragment"
+        android:label="RegistrFragment"
+        tools:layout="@layout/fragment_registr">
+        <action
+            android:id="@+id/action_registrFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+        <action
+            android:id="@+id/action_registrFragment_to_signInFragment"
+            app:destination="@id/signupFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="uz.gita.imtihon3oy.presentation.screen.fragment.registration.login.LoginFragment"
+        android:label="LoginFragment"
+        tools:layout="@layout/fragment_login">
+        <action
+            android:id="@+id/action_loginFragment_to_signInFragment"
+            app:destination="@id/signupFragment" />
+        <action
+            android:id="@+id/action_loginFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+        <action
+            android:id="@+id/action_loginFragment_to_registrFragment"
+            app:destination="@id/registrFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/signupFragment"
+        android:name="uz.gita.imtihon3oy.presentation.screen.fragment.registration.signup.SignUpFragment"
+        android:label="SignInFragment"
+        tools:layout="@layout/fragment_signup">
+        <action
+            android:id="@+id/action_signInFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+        <action
+            android:id="@+id/action_signInFragment_to_verifyFragment2"
+            app:destination="@id/verifyFragment" />
+        <action
+            android:id="@+id/action_signInFragment_to_registrFragment"
+            app:destination="@id/registrFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/verifyFragment"
+        android:name="uz.gita.imtihon3oy.presentation.screen.fragment.registration.verifiy.VerifyFragment"
+        android:label="VerifyFragment"
+        tools:layout="@layout/fragment_verify">
+        <action
+            android:id="@+id/action_verifyFragment_to_profileScreen"
+            app:destination="@id/profileScreen" />
+        <argument
+            android:name="code"
+            app:argType="string" />
+        <argument
+            android:name="phone"
+            app:argType="string" />
+
+    </fragment>
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="uz.gita.imtihon3oy.presentation.screen.fragment.main.MainFragment"
+        android:label="MainFragment"
+        tools:layout="@layout/fragment_main" />
+
+
+</navigation>

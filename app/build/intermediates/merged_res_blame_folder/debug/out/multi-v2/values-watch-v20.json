@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "uz.gita.imtihon3oy.app-mergeDebugResources-59:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Program Files\\Android\\Android Studio\\caches\\transforms-3\\b62897be6c8fa6cbe2f185daa1e73e7f\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

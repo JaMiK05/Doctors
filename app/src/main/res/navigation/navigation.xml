@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/homeScreen">
+
+    <fragment
+        android:id="@+id/homeScreen"
+        android:name="uz.gita.imtihon3oy.presentation.screen.fragment.home.home.HomeScreen"
+        android:label="HomeScreen"
+        tools:layout="@layout/screen_home">
+        <action
+            android:id="@+id/action_homeScreen_to_favouriteScreen"
+            app:destination="@id/favouriteScreen" />
+        <action
+            android:id="@+id/action_homeScreen_to_notificationScreen"
+            app:destination="@id/notificationScreen" />
+    </fragment>
+    <fragment
+        android:id="@+id/favouriteScreen"
+        android:name="uz.gita.imtihon3oy.presentation.screen.fragment.home.favourite.FavouriteScreen"
+        android:label="FavouriteScreen"
+        tools:layout="@layout/screen_favourite" />
+    <fragment
+        android:id="@+id/notificationScreen"
+        android:name="uz.gita.imtihon3oy.presentation.screen.fragment.home.notification.NotificationScreen"
+        android:label="NotificationScreen"
+        tools:layout="@layout/screen_favourite" />
+</navigation>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#3476FD</color>
+    <color name="gray">#636363</color>
+    <color name="teal_200">#2196F3</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="whitegray">#F5F5F5</color>
+    <string name="app_name">Imtihon3Oy</string>
+    <string name="gcm_defaultSenderId" translatable="false">680582762275</string>
+    <string name="google_api_key" translatable="false">AIzaSyDYBjQ6Kv0Mayaa5dfLPfSwG4Js1UM1UZ0</string>
+    <string name="google_app_id" translatable="false">1:680582762275:android:d3706f92f93f3b02f90696</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDYBjQ6Kv0Mayaa5dfLPfSwG4Js1UM1UZ0</string>
+    <string name="google_storage_bucket" translatable="false">imtihon-3-oy.appspot.com</string>
+    <string name="project_id" translatable="false">imtihon-3-oy</string>
+    <style name="Base.Theme.Imtihon3Oy" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Imtihon3Oy" parent="Base.Theme.Imtihon3Oy"/>
+    <style name="circleImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="roundedImageViewRounded">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
